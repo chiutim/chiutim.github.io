@@ -33,8 +33,10 @@ Collaborative work using Python in Jupyter Notebook to conduct Exploratory Data 
 
 ---
 
+### Awards and Certifications
 
-
+#### [U.S. Patent 10886471, “Polymeric electrode modifiers,” Jan 5, 2021](https://patents.google.com/patent/US10886471B2/en?oq=U.S.+Patent+10886471%2c+%E2%80%9CPolymeric+electrode+modifiers%2c%E2%80%9D+Jan+5%2c+2021/)
+#### [U.S. Patent 11345778, “Organic dielectric materials and devices including them,” May 31, 2022](https://patents.google.com/patent/US11345778B2/en?oq=U.S.+Patent+11345778%2c+%E2%80%9COrganic+dielectric+materials+and+devices+including+them%2c%E2%80%9D+May+31%2c+2022/)
 
 ---
 <!--p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>-->

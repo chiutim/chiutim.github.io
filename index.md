@@ -18,14 +18,18 @@ Collaborative work using Python in Jupyter Notebook to conduct Exploratory Data 
 
 ---
 
-### Fundamental Machine Learning (Kaggle submissions)
+### Machine Learning Fundamentals (Kaggle submissions)
 
+- #### [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview/)
+  Python coding: EDA, Feature Engineering, Survival prediction using k-nearest neighbors, random forest classifier, support vector machine
 - #### [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/)
-  EDA, Feature Engineering, Price prediction using K-fold cross-validation with lasso regression and Random Forest
-- #### [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+  Python coding: EDA, Feature Engineering, Price prediction using K-fold cross-validation with lasso regression and random forest
+- #### [Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data](https://www.kaggle.com/competitions/digit-recognizer/)
+  Python coding: EDA, PCA dimensionality reduction, image prediction using random forest classifier, k-means clustering, neural network (MLP)
+- #### [Dogs vs. Cats Redux: Kernels Edition - Distinguish images of dogs from cats](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview/)
+  Python coding: EDA, convolutional neural network (VGG-16)
+- #### [Natural Language Processing with Disaster Tweets - Predict which Tweets are about real disasters and which ones are not](https://www.kaggle.com/competitions/nlp-getting-started/overview)
+  Python coding: EDA, word preprocessing and stemming, recurrent neural network (LSTM with dropout)
 
 ---
 
@@ -33,5 +37,5 @@ Collaborative work using Python in Jupyter Notebook to conduct Exploratory Data 
 
 
 ---
-<!p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>>
+<!--p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>-->
 <!-- Remove above link if you don't want to attibute -->

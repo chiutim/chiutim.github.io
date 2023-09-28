@@ -5,6 +5,7 @@
 ### Data Science Projects
 
 #### [EDA: COVID-19 impact on US 2020 Unemployment](/pdf/Final EDA Paper.pdf)
+Exploratory Data Analysis with Python on COVID-19 case/death and US Census Beureau 2020 employment data. Identifed correlation between COVID-19 rate and general unemployment rate, but the degree of impact varied by region.
 <img src="images/Covid EDA thumbnail.png?raw=true"/>
 
 ---

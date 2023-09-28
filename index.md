@@ -5,7 +5,7 @@
 ### Data Science Projects
 
 #### [EDA: COVID-19 impact on US 2020 Unemployment](/pdf/Final EDA Paper.pdf)
-Exploratory Data Analysis with Python on COVID-19 case/death and US Census Beureau 2020 employment data. Identifed correlation between COVID-19 rate and general unemployment rate, but the degree of impact varied by region.
+Collaborative work using Python in Jupyter Notebook to conduct Exploratory Data Analysis (EDA) on COVID-19 case/death and US Census Beureau 2020 employment data. Identifed correlation between COVID-19 rate and general unemployment rate, but the degree of impact varied by region.
 <img src="images/Covid EDA thumbnail.png?raw=true"/>
 
 ---
@@ -18,10 +18,11 @@ Exploratory Data Analysis with Python on COVID-19 case/death and US Census Beure
 
 ---
 
-### Category Name 2
+### Fundamental Machine Learning (Kaggle submissions)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- #### [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/)
+  EDA, Feature Engineering, Price prediction using K-fold cross-validation with lasso regression and Random Forest
+- #### [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
@@ -32,5 +33,5 @@ Exploratory Data Analysis with Python on COVID-19 case/death and US Census Beure
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>>
 <!-- Remove above link if you don't want to attibute -->

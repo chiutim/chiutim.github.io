@@ -14,15 +14,15 @@
 _Note: For normal and custom distributions, negative rainfall amounts are discarded, and a new random amount is generated._
 
 **Simulation Parameters:**
-Number of iterations: 1,000 or user specified
-Number of years per iterations: 30 or user specified
-Roof Area (in sqft): 3,000 or user specified
-Main Tank Volume: 25,000 or user specified
-Minimum/Maximum Monthly Water Use By Rancher: [4,000-5,200]* or user specified
-Starting Tank Level Per Iteration: 10,000 or user specified
+- Number of iterations: 1,000 or user specified
+- Number of years per iterations: 30 or user specified
+- Roof Area (in sqft): 3,000 or user specified
+- Main Tank Volume: 25,000 or user specified
+- Minimum/Maximum Monthly Water Use By Rancher: [4,000-5,200]* or user specified
+- Starting Tank Level Per Iteration: 10,000 or user specified
 
 **Hard Parameters:**
-Minimum/Maximum Rainfall Capture Efficiency: [0.90-0.98]*
+- Minimum/Maximum Rainfall Capture Efficiency: [0.90-0.98]*
 
 _* Simulation uses uniform continuous distribution between min/max values_
 
@@ -50,5 +50,4 @@ _* Simulation uses uniform continuous distribution between min/max values_
   - Add iteration number of empties and number of overflows to tracking variable
 
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
+### [R program](/program/montecarlo.r)

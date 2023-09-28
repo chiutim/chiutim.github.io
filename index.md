@@ -21,7 +21,10 @@ Collaboratively devised a redistricting plan for the state of Massachusetts thro
 
 ---
 #### [Monte Carlo Simulation: Rainwater harvesting](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+<img src="images/monte carlo 1.jpg?raw=true" width="200"/>
+<img src="images/monte carlo 2.jpg?raw=true" width="200"/>
+<img src="images/monte carlo 3.jpg?raw=true" width="200"/>
 
 ---
 

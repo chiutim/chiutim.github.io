@@ -5,7 +5,7 @@
 ### Data Science Projects
 
 #### [EDA: COVID-19 impact on US 2020 Unemployment](/pdf/Final EDA Paper.pdf)
-Collaborative work using Python in Jupyter Notebook to conduct Exploratory Data Analysis (EDA) on COVID-19 case/death and US Census Beureau 2020 employment data. Identifed correlation between COVID-19 rate and general unemployment rate, but the degree of impact varied by region.
+Collaboratively used Python to conduct Exploratory Data Analysis (EDA) on COVID-19 case/death and US Census Beureau 2020 employment data. Identifed correlation between COVID-19 rate and general unemployment rate, but the degree of impact varied by region.
 <br>
 <img src="images/Covid EDA thumbnail.png?raw=true" width="200"/>
 <img src="images/Covid EDA thumbnail 3.png?raw=true" width="200"/>
@@ -13,7 +13,7 @@ Collaborative work using Python in Jupyter Notebook to conduct Exploratory Data 
 
 ---
 #### [Decision Analytics: Algorithmic Redistricting for Massachusetts](/pdf/algorithmic redistricting.pdf)
-Group work on devising a redistricting plan for the state of Massachusetts through linear goal programming.
+Collaboratively devised a redistricting plan for the state of Massachusetts through linear goal programming.
 <br>
 <img src="images/lp1.png?raw=true" width="200"/>
 <img src="images/lp2.png?raw=true" width="200"/>

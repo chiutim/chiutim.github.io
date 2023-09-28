@@ -1,31 +1,54 @@
-## This can be your internal website page / project page
+## Monte Carlo Simulation with R
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="images/rainwater.jpg?raw=true"/>
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Parameters
+**Monthly Rainfall Amounts:**
+- Used R package fitdistplus to fit various distributions (normal, Weibull, and exponential) to each month’s yearly totals.
+- Normal distribution produced lowest p-value on the Kolmogorov-Smirnov Goodness of Fit test (0.20-0.45), still not significant
+- Allow user parameter for how to run monthly rainfall random variable:
+  - Normal Distribution with unique mean and SD for each month
+  - Weibull Distribution with unique shape and scale for each month
+  - Exponential Distribution with unique rate for each month
+  - Custom PDF for each month using R’s pdqr library to generate unique distribution to pull random values.
+_Note: For normal and custom distributions, negative rainfall amounts are discarded, and a new random amount is generated._
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Simulation Parameters:**
+Number of iterations: 1,000 or user specified
+Number of years per iterations: 30 or user specified
+Roof Area (in sqft): 3,000 or user specified
+Main Tank Volume: 25,000 or user specified
+Minimum/Maximum Monthly Water Use By Rancher: [4,000-5,200]* or user specified
+Starting Tank Level Per Iteration: 10,000 or user specified
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+**Hard Parameters:**
+Minimum/Maximum Rainfall Capture Efficiency: [0.90-0.98]*
 
-### 2. Assess assumptions on which statistical inference will be based
+_* Simulation uses uniform continuous distribution between min/max values_
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+
+### Algorithm Pseudocode
+1. Read in historic monthly rainfall amounts
+2. Get user inputs on simulation parameters
+3. Fit user-specified distribution to rainfall data for each month (12 distribution models)
+4. Generate tracking variables to store simulation data
+5. For each iteration
+6. Generate overflow and empty counters for current iteration
+  - For each year
+    - For each month
+      - Pull random rain amount from current month’s distribution (if negative, pull again)
+      - Calculate total rainfall = roof area * (rain amount / 12) * 7.48052*
+      - Remove water captured given random capture rate
+      - Calculate random monthly usage by rancher
+      - Calculate total difference = monthly rain – monthly usage
+      - Add total difference to current tank amount
+      - If current tank amount > capacity
+        - Remove excess and add one to overflow counter
+      - Else if current tank <= 0
+        - Set current amount to 0 and add one to empty counter
+      - Add all calculations to simulation data tracker
+  - Add iteration number of empties and number of overflows to tracking variable
+
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

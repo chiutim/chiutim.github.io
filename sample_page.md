@@ -1,6 +1,6 @@
 ## Monte Carlo Simulation with R
 
-<img src="images/rainwater.jpg?raw=true"/>
+<img src="images/rainwater.png?raw=true"/>
 
 ### Parameters
 **Monthly Rainfall Amounts:**

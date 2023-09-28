@@ -6,7 +6,8 @@
 
 #### [EDA: COVID-19 impact on US 2020 Unemployment](/pdf/Final EDA Paper.pdf)
 Collaborative work using Python in Jupyter Notebook to conduct Exploratory Data Analysis (EDA) on COVID-19 case/death and US Census Beureau 2020 employment data. Identifed correlation between COVID-19 rate and general unemployment rate, but the degree of impact varied by region.
-<img src="images/Covid EDA thumbnail.png?raw=true" width="100"/>
+<br>
+<img src="images/Covid EDA thumbnail.png?raw=true" width="150"/>
 
 ---
 [Project 2 Title](/sample_page)

@@ -14,7 +14,10 @@ Collaborative work using Python in Jupyter Notebook to conduct Exploratory Data 
 ---
 #### [Decision Analytics: Algorithmic Redistricting for Massachusetts](/pdf/algorithmic redistricting.pdf)
 Group work on devising a redistricting plan for the state of Massachusetts through linear goal programming.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+<img src="images/lp1.png?raw=true" width="200"/>
+<img src="images/lp2.png?raw=true" width="200"/>
+<img src="images/lp3.png?raw=true" width="200"/>
 
 ---
 [Project 3 Title](http://example.com/)

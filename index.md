@@ -12,7 +12,8 @@ Collaborative work using Python in Jupyter Notebook to conduct Exploratory Data 
 <img src="images/Covid EDA thumbnail 3.png?raw=true" width="200"/>
 
 ---
-[Project 2 Title](/sample_page)
+[Decision Analytics: Algorithmic Redistricting for Massachusetts](/pdf/algorithmic redistricting.pdf)
+Group work on devising a redistricting plan for the state of Massachusetts through linear goal programming.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

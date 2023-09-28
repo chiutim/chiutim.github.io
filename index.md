@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[COVID-19 impact on US Unemployment 2020](/pdf/Final EDA Paper.pdf)
+[EDA: COVID-19 impact on US 2020 Unemployment](/pdf/Final EDA Paper.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

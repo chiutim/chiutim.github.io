@@ -31,7 +31,7 @@ Collaboratively devised a redistricting plan for the state of Massachusetts thro
 ---
 
 #### AI Deep Learning Experimentation
-Experiment with various feature engineering techniques, neural network architectures, hyperparameter tuning, and model output analysis.
+Experiment with various feature engineering techniques, neural network architectures, hyperparameter tuning, and model output analysis. All built with Python.
 <br>
 <img src="images/ai1.png?raw=true" width="200"/>
 <img src="images/ai2.png?raw=true" width="200"/>

@@ -33,7 +33,20 @@ Collaboratively devised a redistricting plan for the state of Massachusetts thro
 ### AI Deep Learning Experimentation
 Experiment with various feature engineering techniques, neural network architectures, hyperparameters testing, and model output analysis.
 <br>
- 
+<img src="images/ai1.png?raw=true" width="200"/>
+<img src="images/ai2.png?raw=true" width="200"/>
+<img src="images/ai3.png?raw=true" width="200"/>
+<img src="images/ai4.png?raw=true" width="200"/>
+<img src="images/ai5.png?raw=true" width="200"/>
+<img src="images/ai6.png?raw=true" width="200"/>
+<img src="images/ai7.png?raw=true" width="200"/>
+<br>
+**[Computer Vision - DNN](/pdf/dnn.pdf)**
+<br>
+**[Computer Vision - CNN](/pdf/cnn.pdf)**
+**[Natural Language Processing - RNN](/pdf/rnn.pdf)**
+**[Computer Vision - Transfer Learning](/pdf/transfercnn.pdf)**
+
 
 ---
 

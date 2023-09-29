@@ -44,7 +44,9 @@ Experiment with various feature engineering techniques, neural network architect
 **[Computer Vision - DNN](/pdf/dnn.pdf)**
 <br>
 **[Computer Vision - CNN](/pdf/cnn.pdf)**
+<br>
 **[Natural Language Processing - RNN](/pdf/rnn.pdf)**
+<br>
 **[Computer Vision - Transfer Learning](/pdf/transfercnn.pdf)**
 
 

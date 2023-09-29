@@ -12,6 +12,7 @@ Collaboratively used Python to conduct Exploratory Data Analysis (EDA) on COVID-
 <img src="images/Covid EDA thumbnail 2.png?raw=true" width="400"/>
 
 ---
+
 #### [Decision Analytics: Algorithmic Redistricting for Massachusetts](/pdf/algorithmic redistricting.pdf)
 Collaboratively devised a redistricting plan for the state of Massachusetts through linear goal programming.
 <br>
@@ -20,11 +21,19 @@ Collaboratively devised a redistricting plan for the state of Massachusetts thro
 <img src="images/lp3.png?raw=true" width="200"/>
 
 ---
+
 #### [Monte Carlo Simulation: Rainwater harvesting](/sample_page)
 <br>
 <img src="images/monte carlo 1.jpeg?raw=true" width="250"/>
 <img src="images/monte carlo 2.jpeg?raw=true" width="250"/>
 <img src="images/monte carlo 3.jpeg?raw=true" width="250"/>
+
+---
+
+### AI Deep Learning Experimentation
+Experiment with various feature engineering techniques, neural network architectures, hyperparameters testing, and model output analysis.
+<br>
+ 
 
 ---
 

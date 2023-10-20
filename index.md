@@ -56,7 +56,7 @@ Experiment with various feature engineering techniques, neural network architect
 
 A culmination of data science learnings into a project, inspired by real life events, which demonstrates practical utility and business value. Our group has delved into online sports (NBA) betting analysis and prediction.
 <br>
-<img src="images/capstone1.jpeg?raw=true" width="250"/>
+<img src="images/capstone1.png?raw=true" width="250"/>
 
 ---
 

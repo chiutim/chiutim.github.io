@@ -52,7 +52,7 @@ Experiment with various feature engineering techniques, neural network architect
 
 ---
 
-#### [Capstone Project - Online Sports Wager Analytics](/sample_page_2)
+#### [Capstone Project - Online Sports Wager Analytics](/sample_page2)
 
 A culmination of data science learnings into a project, inspired by real life events, which demonstrates practical utility and business value. Our group has delved into online sports (NBA) betting analysis and prediction.
 <br>

@@ -77,6 +77,8 @@ A culmination of data science learnings into a project, inspired by real life ev
 
 ### Awards and Certifications
 
+#### [Northwestern University - MS in Data Science diploma issued June 2023](/pdf/CeD.233L-N3B7-T1U4.pdf)
+
 #### [U.S. Patent 10886471, “Polymeric electrode modifiers,” Jan 5, 2021](https://patents.google.com/patent/US10886471B2/en?oq=U.S.+Patent+10886471%2c+%E2%80%9CPolymeric+electrode+modifiers%2c%E2%80%9D+Jan+5%2c+2021/)
 #### [U.S. Patent 11345778, “Organic dielectric materials and devices including them,” May 31, 2022](https://patents.google.com/patent/US11345778B2/en?oq=U.S.+Patent+11345778%2c+%E2%80%9COrganic+dielectric+materials+and+devices+including+them%2c%E2%80%9D+May+31%2c+2022/)
 

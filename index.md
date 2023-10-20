@@ -52,6 +52,14 @@ Experiment with various feature engineering techniques, neural network architect
 
 ---
 
+#### [Capstone Project - Online Sports Wager Analytics](/sample_page_2)
+
+A culmination of data science learnings into a project, inspired by real life events, which demonstrates practical utility and business value. Our group has delved into online sports (NBA) betting analysis and prediction.
+<br>
+<img src="images/capstone1.jpeg?raw=true" width="250"/>
+
+---
+
 ### Machine Learning Fundamentals (Kaggle submissions)
 
 - #### [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview/)

@@ -16,26 +16,26 @@ Built 2 PowerBI dashboards to measure process control KPIs, identify trends/risk
 #### [EDA: COVID-19 impact on US 2020 Unemployment](/pdf/Final EDA Paper.pdf)
 Collaboratively used Python to conduct Exploratory Data Analysis (EDA) on COVID-19 case/death and US Census Beureau 2020 employment data. Identifed correlation between COVID-19 rate and general unemployment rate, but the degree of impact varied by region.
 <br>
-<img src="images/Covid EDA thumbnail.png?raw=true" width="200"/>
-<img src="images/Covid EDA thumbnail 3.png?raw=true" width="200"/>
-<img src="images/Covid EDA thumbnail 2.png?raw=true" width="400"/>
+<img src="images/Covid EDA thumbnail.png?raw=true" width="300"/>
+<img src="images/Covid EDA thumbnail 3.png?raw=true" width="300"/>
+<img src="images/Covid EDA thumbnail 2.png?raw=true" width="500"/>
 
 ---
 
 #### [Decision Analytics: Algorithmic Redistricting for Massachusetts](/pdf/algorithmic redistricting.pdf)
 Collaboratively devised a redistricting plan for the state of Massachusetts through linear goal programming.
 <br>
-<img src="images/lp1.png?raw=true" width="200"/>
-<img src="images/lp2.png?raw=true" width="200"/>
-<img src="images/lp3.png?raw=true" width="200"/>
+<img src="images/lp1.png?raw=true" width="300"/>
+<img src="images/lp2.png?raw=true" width="300"/>
+<img src="images/lp3.png?raw=true" width="300"/>
 
 ---
 
 #### [Monte Carlo Simulation: Rainwater harvesting](/sample_page)
 <br>
-<img src="images/monte carlo 1.jpeg?raw=true" width="250"/>
-<img src="images/monte carlo 2.jpeg?raw=true" width="250"/>
-<img src="images/monte carlo 3.jpeg?raw=true" width="250"/>
+<img src="images/monte carlo 1.jpeg?raw=true" width="350"/>
+<img src="images/monte carlo 2.jpeg?raw=true" width="350"/>
+<img src="images/monte carlo 3.jpeg?raw=true" width="350"/>
 
 ---
 

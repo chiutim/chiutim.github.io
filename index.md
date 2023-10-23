@@ -3,6 +3,15 @@
 ---
 
 ### Data Science Projects
+#### Analytical dashboards at Abbott
+Built 2 PowerBI dashboards to measure process control KPIs, identify trends/risks, and monitor resource utilization for Core Diagnostic Operation and R&D teams respectively. Establisehd Oracle and SQL relational database connection, developed star schema data models, programmed DAX and Power Query scripts, and customized graph visuals to deliver functional dashboards to meet stakeholders' needs to inform process milestones and resource optimization.
+<br>
+<img src="images/oracle db.png?raw=true" width="50"/>
+<img src="images/sql db.png?raw=true" width="50"/>
+<img src="images/dax.png?raw=true" width="60"/>
+<img src="images/powerbi query.png?raw=true" width="70"/>
+
+---
 
 #### [EDA: COVID-19 impact on US 2020 Unemployment](/pdf/Final EDA Paper.pdf)
 Collaboratively used Python to conduct Exploratory Data Analysis (EDA) on COVID-19 case/death and US Census Beureau 2020 employment data. Identifed correlation between COVID-19 rate and general unemployment rate, but the degree of impact varied by region.
@@ -77,7 +86,7 @@ A culmination of data science learnings into a capstone project, inspired by rea
 
 ### Awards and Certifications
 
-#### [Northwestern University - MS in Data Science diploma issued June 2023](/pdf/CeD.233L-N3B7-T1U4.pdf)
+#### [Northwestern University - MS in Data Science diploma, issued June 2023](/pdf/CeD.233L-N3B7-T1U4.pdf)
 
 #### [U.S. Patent 10886471, “Polymeric electrode modifiers,” Jan 5, 2021](https://patents.google.com/patent/US10886471B2/en?oq=U.S.+Patent+10886471%2c+%E2%80%9CPolymeric+electrode+modifiers%2c%E2%80%9D+Jan+5%2c+2021/)
 #### [U.S. Patent 11345778, “Organic dielectric materials and devices including them,” May 31, 2022](https://patents.google.com/patent/US11345778B2/en?oq=U.S.+Patent+11345778%2c+%E2%80%9COrganic+dielectric+materials+and+devices+including+them%2c%E2%80%9D+May+31%2c+2022/)

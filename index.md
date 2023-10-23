@@ -9,7 +9,7 @@ Built 2 PowerBI dashboards to measure process control KPIs, identify trends/risk
 <img src="images/oracle db.png?raw=true" width="90"/>
 <img src="images/sql db.png?raw=true" width="70"/>
 <img src="images/dax.PNG?raw=true" width="100"/>
-<img src="images/powerbi query.png?raw=true" width="120"/>
+<img src="images/powerbi query.png?raw=true" width="150"/>
 
 ---
 

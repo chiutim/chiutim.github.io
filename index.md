@@ -6,7 +6,7 @@
 #### Analytical dashboards at Abbott
 Built 2 PowerBI dashboards to measure process control KPIs, identify trends/risks, and monitor resource utilization for Core Diagnostic Operation and R&D teams respectively. Establisehd Oracle and SQL relational database connection, developed star schema data models, programmed DAX and Power Query scripts, and customized graph visuals to deliver functional dashboards to meet stakeholders' needs to inform process milestones and resource optimization.
 <br>
-<img src="images/oracle db.png?raw=true" width="100"/>
+<img src="images/oracle db.png?raw=true" width="90"/>
 <img src="images/sql db.png?raw=true" width="70"/>
 <img src="images/dax.PNG?raw=true" width="100"/>
 <img src="images/powerbi query.png?raw=true" width="120"/>

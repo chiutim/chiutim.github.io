@@ -65,7 +65,7 @@ Experiment with various feature engineering techniques, neural network architect
 
 A culmination of data science learnings into my Masters program capstone - inspired by real life application - demonstrating practical utility and commercial value. We delved into online sports (NBA) betting to deliver an end-to-end solution for performance analysis and betting prediction. Achieved the highest session score.
 <br>
-<img src="images/capstone1.png?raw=true" width="250"/>
+<img src="images/capstone1.png?raw=true" width="400"/>
 
 ---
 

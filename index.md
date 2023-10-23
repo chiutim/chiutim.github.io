@@ -63,7 +63,7 @@ Experiment with various feature engineering techniques, neural network architect
 
 #### [Capstone Project - Online Sports Wager Analytics](/sample_page2)
 
-A culmination of data science learnings into a capstone project, inspired by real life events, which demonstrates practical utility and business value. We delved into online sports (NBA) betting analysis and prediction.
+A culmination of data science learnings into my Masters program capstone - inspired by real life application - demonstrating practical utility and commercial value. We delved into online sports (NBA) betting to deliver an end-to-end solution for performance analysis and betting prediction. Achieved the highest session score.
 <br>
 <img src="images/capstone1.png?raw=true" width="250"/>
 

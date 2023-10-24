@@ -4,7 +4,7 @@
 <img src="images/sports betting barchart.png?raw=true" width = "500"/>
 
 ### Problem Statement
-
+The NBA is a fast-paced game where game flow and online betting line changes occur rapidly. We hypothesize a market of this size but with a relatively low maturity can be ripe with inefficiencies which we can uncover and capitalize on. 
 
 ### My Role
 **Data Scientist, Data Modeler**

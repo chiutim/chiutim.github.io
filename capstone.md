@@ -36,7 +36,11 @@ The NBA is a fast-paced game where game flow and online betting line changes occ
 - Expand further on modeling
   - Incorporate linear programming optimization methods
   - Expand data source to include more recent seasons and playoffs
-  - Design and engineer 
+  - Explore additional feature engineering, e.g. offense v.s. defense metrics, individual player stats
+- Scale
+  - Apply model methodologies to other sports and/or bet types
+- Automate and synchronize in-game odds
+  - Build APIs for live server connection
 
 ### [Detailed Report](/pdf/MSDS498_Team55_FinalReport.pdf)
 ### [Oral Report](/pdf/MSDS498_Team55_OralReport.pdf)

@@ -3,49 +3,34 @@
 <img src="images/sports betting map.png?raw=true" width = "500"/>
 <img src="images/sports betting barchart.png?raw=true" width = "500"/>
 
+### Problem Statement
+
+
 ### My Role
 **Data Scientist, Data Modeler**
-- 
+- Studied, dissected, engineered and transformed multiple datasets (i.e. data munging) to prepare for feeding into models
 - Programmed and built regression and classification models in Python
-- Design experiments to 
-- 
+- Designed experiments to test, verify, and compare prediction models performance
+- Summarized and translated findings to business recommendation
 
+### Goals
+1. Identify NBA team and game characteristics which would rank the highest impact to scoring and betting metrics
+2. Produce predictive models to predict betting outcomes
+3. Create prescriptive applications that incorporate NBA game & online betting statistics with recommended bets to increase end user profitability
 
-**Simulation Parameters:**
-- Number of iterations: 1,000 or user specified
-- Number of years per iterations: 30 or user specified
-- Roof Area (in sqft): 3,000 or user specified
-- Main Tank Volume: 25,000 or user specified
-- Minimum/Maximum Monthly Water Use By Rancher: [4,000-5,200]* or user specified
-- Starting Tank Level Per Iteration: 10,000 or user specified
+### End-to-End Solution
+**Back End**
+1. Raw data and engineered features (Python)
+2. Game stats and betting data visualization (Python)
+3. Prediction models (Python)
+  - Pre-game bet classification
+  - In-game score regression
+4. Data staging (Excel scripts)
+**Front End**
+5. Cloud-based BI Dashboard (DOMO)
+6. Push alert, SMS text and email notification
 
-**Hard Parameters:**
-- Minimum/Maximum Rainfall Capture Efficiency: [0.90-0.98]*
-
-_* Simulation uses uniform continuous distribution between min/max values_
-
-
-### Algorithm Pseudocode
-1. Read in historic monthly rainfall amounts
-2. Get user inputs on simulation parameters
-3. Fit user-specified distribution to rainfall data for each month (12 distribution models)
-4. Generate tracking variables to store simulation data
-5. For each iteration
-6. Generate overflow and empty counters for current iteration
-  - For each year
-    - For each month
-      - Pull random rain amount from current month’s distribution (if negative, pull again)
-      - Calculate total rainfall = roof area * (rain amount / 12) * 7.48052*
-      - Remove water captured given random capture rate
-      - Calculate random monthly usage by rancher
-      - Calculate total difference = monthly rain – monthly usage
-      - Add total difference to current tank amount
-      - If current tank amount > capacity
-        - Remove excess and add one to overflow counter
-      - Else if current tank <= 0
-        - Set current amount to 0 and add one to empty counter
-      - Add all calculations to simulation data tracker
-  - Add iteration number of empties and number of overflows to tracking variable
+### Findings
 
 
 ### [Detailed Report](/pdf/MSDS498_Team55_FinalReport.pdf)

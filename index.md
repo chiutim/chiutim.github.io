@@ -31,7 +31,7 @@ Collaboratively devised a redistricting plan for the state of Massachusetts thro
 
 ---
 
-#### [Monte Carlo Simulation: Rainwater harvesting](/sample_page)
+#### [Monte Carlo Simulation: Rainwater harvesting](/monte_carlo)
 <br>
 <img src="images/monte carlo 1.jpeg?raw=true" width="350"/>
 <img src="images/monte carlo 2.jpeg?raw=true" width="350"/>
@@ -61,7 +61,7 @@ Experiment with various feature engineering techniques, neural network architect
 
 ---
 
-#### [Capstone Project - Online Sports Wager Analytics](/sample_page2)
+#### [Capstone Project - Online Sports Wager Analytics](/capstone)
 
 A culmination of data science learnings into my Masters program capstone - inspired by real life application - demonstrating practical utility and commercial value. We delved into online sports (NBA) betting to deliver an end-to-end solution prototype for NBA performance analysis and betting prediction. Achieved the highest session score.
 <br>

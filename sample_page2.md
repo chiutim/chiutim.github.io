@@ -1,6 +1,7 @@
-## Monte Carlo Simulation with R
+## Northwestern University MSDS Captsone 2023 - "Game Changer" Sports Wager Analytics
 
-<img src="images/rainwater.png?raw=true"/>
+<img src="images/sports betting map.png?raw=true"/>
+<img src="images/sports betting barchart.png?raw=true"/>
 
 ### Parameters
 **Monthly Rainfall Amounts:**
@@ -50,4 +51,5 @@ _* Simulation uses uniform continuous distribution between min/max values_
   - Add iteration number of empties and number of overflows to tracking variable
 
 
-### [R program](/pdf/monte-carlo.pdf)
+### [Detailed Report](/pdf/MSDS498_Team55_FinalReport.pdf)
+### [Oral Report](/pdf/MSDS498_Team55_OralReport.pdf)

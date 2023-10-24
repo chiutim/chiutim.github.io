@@ -25,10 +25,11 @@
 3. Prediction models (Python)
    - Pre-game bet classification
    - In-game score regression
-5. Data staging (Excel scripts)
+4. Data staging (Excel scripts)
+
 **Front End**
-6. Cloud-based BI Dashboard (DOMO)
-7. Push alert, SMS text and email notification
+5. Cloud-based BI Dashboard (DOMO)
+6. Push alert, SMS text and email notification
 
 ### Findings
 

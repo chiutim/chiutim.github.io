@@ -23,12 +23,12 @@
 1. Raw data and engineered features (Python)
 2. Game stats and betting data visualization (Python)
 3. Prediction models (Python)
-&nbsp;&nbsp;- Pre-game bet classification
-&nbsp;&nbsp;- In-game score regression
-4. Data staging (Excel scripts)
+   &nbsp;&nbsp;- Pre-game bet classification
+   &nbsp;&nbsp;- In-game score regression
+5. Data staging (Excel scripts)
 **Front End**
-5. Cloud-based BI Dashboard (DOMO)
-6. Push alert, SMS text and email notification
+6. Cloud-based BI Dashboard (DOMO)
+7. Push alert, SMS text and email notification
 
 ### Findings
 

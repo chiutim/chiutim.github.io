@@ -3,16 +3,13 @@
 <img src="images/sports betting map.png?raw=true" width = "500"/>
 <img src="images/sports betting barchart.png?raw=true" width = "500"/>
 
-### Parameters
-**Monthly Rainfall Amounts:**
-- Used R package fitdistplus to fit various distributions (normal, Weibull, and exponential) to each month’s yearly totals.
-- Normal distribution produced lowest p-value on the Kolmogorov-Smirnov Goodness of Fit test (0.20-0.45), still not significant
-- Allow user parameter for how to run monthly rainfall random variable:
-  - Normal Distribution with unique mean and SD for each month
-  - Weibull Distribution with unique shape and scale for each month
-  - Exponential Distribution with unique rate for each month
-  - Custom PDF for each month using R’s pdqr library to generate unique distribution to pull random values.
-_Note: For normal and custom distributions, negative rainfall amounts are discarded, and a new random amount is generated._
+### My Role
+**Data Scientist, Data Modeler**
+- 
+- Programmed and built regression and classification models in Python
+- Design experiments to 
+- 
+
 
 **Simulation Parameters:**
 - Number of iterations: 1,000 or user specified

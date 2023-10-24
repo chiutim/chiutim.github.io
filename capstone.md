@@ -19,15 +19,12 @@
 3. Create prescriptive applications that incorporate NBA game & online betting statistics with recommended bets to increase end user profitability
 
 ### End-to-End Solution
-**Back End**
 1. Raw data and engineered features (Python)
 2. Game stats and betting data visualization (Python)
 3. Prediction models (Python)
    - Pre-game bet classification
    - In-game score regression
 4. Data staging (Excel scripts)
-
-**Front End**
 5. Cloud-based BI Dashboard (DOMO)
 6. Push alert, SMS text and email notification
 

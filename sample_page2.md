@@ -1,7 +1,7 @@
 ## Northwestern University MSDS Captsone 2023 - "Game Changer" Sports Wager Analytics
 
-<img src="images/sports betting map.png?raw=true"/>
-<img src="images/sports betting barchart.png?raw=true"/>
+<img src="images/sports betting map.png?raw=true" width = "300"/>
+<img src="images/sports betting barchart.png?raw=true" width = "300"/>
 
 ### Parameters
 **Monthly Rainfall Amounts:**
